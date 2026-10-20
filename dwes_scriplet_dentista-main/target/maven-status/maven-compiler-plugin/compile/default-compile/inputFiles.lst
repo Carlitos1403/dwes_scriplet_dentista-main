@@ -1,0 +1,9 @@
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/config/ConexionBD.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/dao/CitaDAO.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/dao/OdontologoDAO.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/dao/PacienteDAO.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/model/Cita.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/model/Odontologo.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/model/Paciente.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/servlet/CitaServlet.java
+/home/usuario/Descargas/dwes_scriplet_dentista-main/src/main/java/es/dwes/dentista/servlet/PacienteServlet.java
